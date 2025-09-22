@@ -5,7 +5,9 @@ Air Quality Index Predictor project is to predict the AQI level.
 
 ## Project Overview
 
-This project provides a comprehensive solution for predicting the Air Quality Index (AQI) based on various air pollutant concentrations and weather conditions. It includes two distinct models built using Artificial Neural Networks (ANN): a **regression model** to predict the precise numerical AQI value and a **classification model** to predict the corresponding AQI category (e.g., "Good", "Unhealthy").
+This project provides a comprehensive solution for predicting the Air Quality Index (AQI) based on various air pollutant concentrations and weather conditions.
+ It includes two distinct models built using Artificial Neural Networks (ANN): a **regression model** to predict the precise numerical AQI value
+and a **classification model** to predict the corresponding AQI category (e.g., "Good", "Unhealthy").
 
 The project utilizes the `global_air_quality_dataset` from Kaggle, which contains a rich set of features including:
 
