@@ -36,15 +36,7 @@ The solution is structured into several key phases:
 
 -----
 
-## How to Run the Project
 
-1.  **Download the Dataset**: Ensure the `global_air_quality_data.csv` file is in the same directory as the notebook. The notebook is set to look for this file at `DATA_PATH = "global_air_quality_data.csv"`.
-
-2.  **Open and Run the Notebook**: Open the `Air_Quality_Index_Predictor_combined.ipynb` file in a Jupyter Notebook or Google Colab environment.
-
-3.  **Execute Cells**: Run all the cells in the notebook sequentially. The notebook is designed to be executed from top to bottom, with each cell building on the output of the previous one.
-
-4.  **Review the Output**: The notebook will print model summaries, training history, evaluation metrics, and visualizations. The final cells demonstrate how to make a real-time prediction using the trained models.
 
 ### Key Outputs to Look For
 
