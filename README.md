@@ -23,12 +23,7 @@ The solution is structured into several key phases:
 
 ---
 
-## Requirements
 
-The project requires the following libraries to be installed in your Python environment. You can install them using `pip`:
-
-```bash
-pip install pandas numpy scikit-learn tensorflow matplotlib seaborn
 ````
 
   - **pandas**: For data manipulation and analysis.
